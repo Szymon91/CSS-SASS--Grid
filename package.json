@@ -1,0 +1,25 @@
+{
+  "name": "html-css-scss-less-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Szymon91/HTML-CSS-SCSS-LESS-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Szymon91/HTML-CSS-SCSS-LESS-/issues"
+  },
+  "homepage": "https://github.com/Szymon91/HTML-CSS-SCSS-LESS-#readme",
+  "dependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "sass": "^1.17.4"
+  }
+}
